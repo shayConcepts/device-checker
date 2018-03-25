@@ -1,0 +1,4 @@
+pyinstaller
+pywin32
+requests
+wxpython
