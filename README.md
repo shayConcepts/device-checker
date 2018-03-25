@@ -1,5 +1,7 @@
 # Device Checker
 
+[![Gitter](https://badges.gitter.im/shayConcepts/device-checker.svg)](https://gitter.im/shayConcepts/device-checker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Device Checker is a Windows application that notifies you when changes are made to your system.
 
 A subset of device attributes that are scanned:
