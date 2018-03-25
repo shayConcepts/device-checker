@@ -16,7 +16,7 @@ Supported Platform: Windows 10
 
 Download Options:  
 [Developer Website](http://shayConcepts.com)  
-[GitHub Releases]()  
+[GitHub Releases](https://github.com/shayConcepts/device-checker/releases)  
 
 ## License & Usage
 
